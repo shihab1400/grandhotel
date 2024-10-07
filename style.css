@@ -748,7 +748,11 @@ body {
    }
 
    .about-us-img {
-      width: 25rem;
+      width: 20rem;
+   }
+
+   .about-us-img:hover {
+      width: 22rem;
    }
 
    .customers-paragraph {
@@ -867,6 +871,10 @@ body {
 
    .about-us-img {
       width: 15rem;
+   }
+
+   .about-us-img:hover {
+      width: 17rem;
    }
 
    .common-heading {
